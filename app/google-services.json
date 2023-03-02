@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "850022005636",
+    "project_id": "yatra-76d3a",
+    "storage_bucket": "yatra-76d3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850022005636:android:76099fe3dfc9d8b5a97bd1",
+        "android_client_info": {
+          "package_name": "com.example.projectii"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850022005636-l5hnmphmhccgp30sk3sqim131h9u19a3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLmGXSMVuu7mT5RXe4BeXbjY6Z74Htm7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850022005636-l5hnmphmhccgp30sk3sqim131h9u19a3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850022005636:android:c321129a792497b1a97bd1",
+        "android_client_info": {
+          "package_name": "com.yatra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850022005636-l5hnmphmhccgp30sk3sqim131h9u19a3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLmGXSMVuu7mT5RXe4BeXbjY6Z74Htm7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850022005636-l5hnmphmhccgp30sk3sqim131h9u19a3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
